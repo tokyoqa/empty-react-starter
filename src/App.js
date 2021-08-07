@@ -10,7 +10,6 @@ function App() {
           Bolotbekov Daniyar
           <br/>
           It Academy Frontend
-          07.08.2021
         </p>
       </header>
     </div>
